@@ -11,6 +11,8 @@ https://cakuma.wordpress.com/2016/02/29/android-studio-creating-a-library-projec
 
 https://cakuma.wordpress.com/2016/02/29/android-studio-using-a-library-project/
 
+There is an accompanying project at:
+https://github.com/nigelcardozo/UseLibrary_MathApplication
 
 When you're done, why not check out some of my applications on the Play Store:
 
