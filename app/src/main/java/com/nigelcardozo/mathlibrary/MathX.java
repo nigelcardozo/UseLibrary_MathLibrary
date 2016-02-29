@@ -5,7 +5,7 @@ package com.nigelcardozo.mathlibrary;
 //https://cakuma.wordpress.com/2016/02/29/android-studio-using-a-library-project/
 //Please visit cakuma for further details.
 
-//There is an accompany project at:
+//There is an accompanying project at:
 //https://github.com/nigelcardozo/UseLibrary_MathApplication
 
 //If you find this helpful, please take a look at my apps :
